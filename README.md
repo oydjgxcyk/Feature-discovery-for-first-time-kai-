@@ -1,4 +1,4 @@
-# Kai: Smart Onboarding & Feature Discovery
+# Kai: Feature Discovery for First time 
 
 ## 🚀 Project Overview
 Kai is a personal AI assistant designed to improve the first-time user experience. It guides users through features using an interactive onboarding system and provides smart suggestions based on user intent.
